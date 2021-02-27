@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TrackWork</string>
+    <string name="label">label</string>
+    <array name="Item_group">
+        <item>Select Item</item>
+        <item>Laptop</item>
+        <item>Desktop</item>
+        <item>Printer</item>
+        <item>CCTV</item>
+        <item>Speakers</item>
+        <item>Periperls Devices</item>
+        <item>Others</item>
+    </array>
+    <array name="status">
+        <item>Status Okay</item>
+        <item>Pending</item>
+        <item>Other</item>
+
+    </array>
+    <array name="PayMode">
+        <item>Pending</item>
+        <item>Cash</item>
+        <item>UPI Pay</item>
+        <item>Credit</item>
+    </array>
+</resources>

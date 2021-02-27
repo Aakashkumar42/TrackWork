@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "80894708936",
+    "firebase_url": "https://trackin-3deb1.firebaseio.com",
+    "project_id": "trackin-3deb1",
+    "storage_bucket": "trackin-3deb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80894708936:android:0ac59a07d376128402e9fd",
+        "android_client_info": {
+          "package_name": "com.example.trackwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80894708936-1kbpoe0399ip29s9afme8qig3v1s51j3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trackwork",
+            "certificate_hash": "bec3241c1bc84e19bb0a875a93b4291579cb7ac7"
+          }
+        },
+        {
+          "client_id": "80894708936-h25ljuv3cedjc7279mt85c2o77id02ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwlKV6tkcvssZyG17AJ2BRlvlY2VBTpaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80894708936-h25ljuv3cedjc7279mt85c2o77id02ea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
